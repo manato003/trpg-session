@@ -1,6 +1,6 @@
 # CLAUDE.md — trpg-session
 
-共通ワークフロー・原則は `~/.claude/CLAUDE.md` に定義されており自動適用される。
+共通ワークフロー・原則は `C:/Dev/claude/CLAUDE.md` に定義されており自動適用される。
 
 ---
 
