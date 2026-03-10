@@ -20,6 +20,20 @@
 
 ---
 
+## 推奨スキル（このPJ向け）
+
+| 場面 | スキル |
+|---|---|
+| shadcn/ui コンポーネント | `C:/Dev/claude/skills/antigravity/shadcn/` |
+| Tailwind v4 | `C:/Dev/claude/skills/antigravity/tailwind-patterns/` |
+| Next.js App Router | `C:/Dev/claude/skills/antigravity/nextjs-best-practices/` |
+| Supabase 認証・DB | `C:/Dev/claude/skills/antigravity/nextjs-supabase-auth/` |
+| PostgreSQL最適化 | `C:/Dev/claude/skills/antigravity/postgres-best-practices/` |
+| TypeScript | `C:/Dev/claude/skills/antigravity/typescript-expert/` |
+| Zod バリデーション | `C:/Dev/claude/skills/antigravity/zod-validation-expert/` |
+
+---
+
 ## タスク管理
 
 | ファイル | 用途 |
